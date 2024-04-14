@@ -45,7 +45,7 @@ module.exports = {
 ```
 Lien clone git
 ```
-https://github.com/mjumelmax001/statutsURLbotdiscord.git
+https://github.com/799Zeico/Status-web-discord.git
 ```
 
 Le code est en open source mais il est proteger par une LICENSE
